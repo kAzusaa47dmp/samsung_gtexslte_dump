@@ -1,0 +1,6 @@
+system/framework/arm/boot.oat filter=lfs diff=lfs merge=lfs -text
+system/hncfont95.dat filter=lfs diff=lfs merge=lfs -text
+system/priv-app/GmsCore/GmsCore.apk filter=lfs diff=lfs merge=lfs -text
+.git/lfs/objects/10/80/10809e167b01b0f49dc3edb5501e987b28b2b9500fd31ececd49a75da63edea4 filter=lfs diff=lfs merge=lfs -text
+.git/lfs/objects/93/37/93373d4481ea953ff6a8be15263ef85410ca1cbd15ade089e843b3441263b417 filter=lfs diff=lfs merge=lfs -text
+.git/lfs/objects/d0/f0/d0f0f6c846cd338cd65c547831a904f74366601230916dfe7007bab63bb83c4e filter=lfs diff=lfs merge=lfs -text
